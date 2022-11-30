@@ -1,0 +1,19 @@
+{
+  "name": "reading-record-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuzzyJess/Reading-record-BE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuzzyJess/Reading-record-BE/issues"
+  },
+  "homepage": "https://github.com/fuzzyJess/Reading-record-BE#readme"
+}
